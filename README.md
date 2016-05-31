@@ -1,17 +1,9 @@
-=== Under construction per Page ===
-Contributors: hyvikk
-Donate link: #
-Tags: underconstuction, private page, security, coming soon, Maintenance mode
-Requires at least: 4.0.0
-Tested up to: 4.5
-Stable tag: 2.0
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
+# Under construction per Page
+ 
 This plugin helps you setup under construction content for each page so that your user can't see original content until you finish working on it.
 
 
-== Description ==
+# Description
 
 This plugin helps you setup under construction content for each page so that your user can keep on visiting the rest of the site  and shows under construction content on that page instead of original content until u make it live again.
 
@@ -19,18 +11,11 @@ This plugin is useful for busy blogs and big sites. this way you can let your vi
 
 only Admin can see the content on the site.
 
-== Installation ==
+# Installation 
 
 
 e.g.
 
-1. Upload the plugin files to the `/wp-content/plugins/page-under-construction` directory, or install the plugin through the WordPress plugins screen directly.
-1. Activate the plugin through the 'Plugins' screen in WordPress
-1. Use the Construction Design menu to edit your coming soon message
-
-
-== Screenshots ==
-
-1. screenshot-1.png
-2. screenshot-2.png
-2. screenshot-3.png
+- Upload the plugin files to the `/wp-content/plugins/page-under-construction` directory, or install the plugin through the WordPress plugins screen directly.
+- Activate the plugin through the 'Plugins' screen in WordPress
+- Use the Construction Design menu to edit your coming soon message
