@@ -16,7 +16,7 @@ if (!defined('ABSPATH')) {
 add_action('add_meta_boxes', 'hvk_ucfp_meta_box_add');
 
 function hvk_ucfp_meta_box_add() {
-	add_meta_box('hvk_ucfp-meta-box', 'Under Contruction', 'hvk_ucfp_meta_box_cb', 'page', 'side', 'high');
+	add_meta_box('hvk_ucfp-meta-box', 'Under Construction', 'hvk_ucfp_meta_box_cb', 'page', 'side', 'high');
 }
 
 function hvk_ucfp_meta_box_cb() {
