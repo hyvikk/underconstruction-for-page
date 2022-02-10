@@ -4,7 +4,7 @@
  * Description: This plugin helps you setup under construction content for each page so that your user can't see original content until it's done.
  * Author: Hyvikk
  * Author URI: https://hyvikk.com/
- * Version: 1.0.1
+ * Version: 1.0.2
  * Requires: 3.0 or higher
  */
 
@@ -33,7 +33,7 @@ function hvk_ucfp_meta_box_cb() {
 
     <p>
         <input type="checkbox" id="hvk_ucfp_meta_box_check" name="hvk_ucfp_meta_box_check" <?php checked($check, 'on');?> />
-        <label for="my_meta_box_check">Under Construction</label>
+        <label for="hvk_ucfp_meta_box_check">Under Construction</label>
     </p>
     <?php
 }
